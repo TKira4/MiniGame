@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Adapter/Adapter.csproj" />
+  <Project Path="Core/Core.csproj" />
+  <Project Path="GameClientTest/GameClientTest.csproj" />
+</Solution>
