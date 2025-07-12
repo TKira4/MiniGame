@@ -1,5 +1,4 @@
 ﻿using UnityEngine;
-
 public static class EntryPoint
 {
     [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.BeforeSceneLoad)]
